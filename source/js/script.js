@@ -133,7 +133,7 @@ const engDictionary = {
   subscribe: 'subscribe',
   // Тексты для квестов с Главной
   firstContact: 'An incredible story about hyperreality. Immerse yourself in our "matrix" and help save the world!',
-  theWave: 'You have achieved everything you dreamed of, finally began to live life to the fullest. But your world is crumbling over a catastrophe that no one could have foreseen. Will you manage to find out the reason for it?',
+  theWave: 'You have achieved everything you dreamed of, but your world is crumbling over a catastrophe that no one could have foreseen. Will you manage to find out the reason for it?',
   inFrontOfPandemia: 'You managed to travel back to the beginning of 2019, when the world did not yet know about the word COVID-19. Will you prevent a pandemic?',
   simulatorOfPresident: 'Feel the power! Democracy or tyranny - it&#39;s up to you.',
   secretOfGeotorex: 'You are being introduced as an agent in medieval society. what could go wrong?',
