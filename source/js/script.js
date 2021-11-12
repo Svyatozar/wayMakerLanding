@@ -72,7 +72,7 @@ const engDictionary = {
   headerTitleBusiness: 'Business like a game',
   // Заголовок в хедере на Главной (Развлечение нового формата)
   headerTitleIndex: 'A new format of entertainment',
-  // кнопка Можно скачать в хедере
+  // кнопка Скачайте приложение в хедере
   canDownload: 'download here',
   // Заголовок главной страницы (Представь, что попал в сюжет невероятной истории через телефон)
   imagineThat: 'Imagine that ',
@@ -133,20 +133,24 @@ const engDictionary = {
   subscribe: 'subscribe',
   // Тексты для квестов с Главной
   firstContact: 'An incredible story about hyperreality. Immerse yourself in our "matrix" and help save the world!',
+  theWave: 'You have achieved everything you dreamed of, finally began to live life to the fullest. But your world is crumbling over a catastrophe that no one could have foreseen. Will you manage to find out the reason for it?',
   inFrontOfPandemia: 'You managed to travel back to the beginning of 2019, when the world did not yet know about the word COVID-19. Will you prevent a pandemic?',
   simulatorOfPresident: 'Feel the power! Democracy or tyranny - it&#39;s up to you.',
   secretOfGeotorex: 'You are being introduced as an agent in medieval society. what could go wrong?',
   placesOfSmolensk: 'An interactive story that takes you through the best places in the city! Take a walk, eat, chat.',
   ghostPainter: 'Strange is happening in Gorky Park, and only you can figure it out.',
   breadCrumbsOfHistory: 'A walk through VDNKh through time.',
+  tenWeirdHouses: 'Top-10 of weird Moscow buildings according to blogger Ilya Varlamov',
   // Заголовки квестов с Главной
   firstContactTitle: 'First contact',
-  inFrontOfPandemiaTitle: 'In front of pandemia',
+  waveTitle: 'The Wave',
+  inFrontOfPandemiaTitle: 'In the face of danger',
   simulatorOfPresidentTitle: 'Simulator of president',
   secretOfGeotorexTitle: 'Secret of Geotorex',
   placesOfSmolenskTitle: 'Interesting places of Smolensk',
   ghostPainterTitle: 'Ghost painter',
-  breadCrumbsOfHistoryTitle: 'Bread crumbs of history',
+  breadCrumbsOfHistoryTitle: 'Pieces of history',
+  tenWeirdHousesTitle: 'The ugliest buildings of Moscow',
   // Тексты для квестов с Бизнеса
   forGuestsOfSmolensk: 'He takes you to the sights of the city, after which he offers to stop by for a bite to eat at the &laquo;Mayakovsky&raquo; cafe',
   intoParkGorkogo: 'A detective story that will captivate the player right from the entrance to the park, and in the course of the plot will lead to the cafe of the &laquoGarage&raquo Museum',
